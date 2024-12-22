@@ -2,7 +2,7 @@ import { NavLink } from "react-router-dom"
 
 const Navbar = () => {
     return (
-        <div className="navbar bg-base-100">
+        <div className="navbar bg-cyan-100">
             <div className="navbar-start">
                 <a className="text-xl font-semibold mx-4">GorgeousShop</a>
             </div>
